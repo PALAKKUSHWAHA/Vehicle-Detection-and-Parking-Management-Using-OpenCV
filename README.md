@@ -1,4 +1,4 @@
-# Vehicle-Detection-and-Parking-Management-Using-OpenCV
+# Vehicle-Detection-and-Parking-Management-Using-OpenCV : https://colab.research.google.com/drive/1-nY57zJuvVeNqh0-d4ZuWS02pxWi2q_V?usp=sharing
 This project leverages Python and OpenCV to detect and classify vehicles in real time—no heavy ML models required—making it ideal for smart‑parking and traffic‑monitoring applications. By processing live camera feeds or video files, it identifies moving objects, draws bounding boxes around vehicles, and categorizes them by size.
 
 * **Objective**
